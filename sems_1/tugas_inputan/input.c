@@ -3,9 +3,6 @@
 //Check Angka Genap/Ganjil
 void checkAngka(int angka){
     angka % 2 == 0 ? printf(" Nilai : Genap") : printf("Nilai : Ganjil");
-
-    
-
 }
 
 int main() {

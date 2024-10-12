@@ -11,9 +11,11 @@ int main()
     // Penambahan & untuk menerima variable a dan b
     scanf("%d %d", &a, &b);
 
+    // Aritmatika Perjumlahan
     int sum = a + b;
     printf("Penjumlahan: %d\n", sum);
 
+    //
     int difference = a - b;
     printf("Pengurangan: %d\n", difference);
 
